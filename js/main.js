@@ -25,7 +25,7 @@ $(document).ready(function() {
 
   templates = t;
   
-  $.getJSON('../data/list.json')
+  $.getJSON('data/list.json')
    .done(function(data) {
 
      var i;
