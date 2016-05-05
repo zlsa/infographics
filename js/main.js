@@ -6,13 +6,13 @@ var templates = [
 
 function create_infographic(parent, data) {
   var image_url = 'data/images/' + data.image + '.png';
-  var image_url_strip = 'data/images/' + data.image + '-strip.jpg';
+  var image_url_thumb = 'data/images/thumbs/' + data.image + '.jpg';
 
   parent.append(templates.infographic({
     name: data.name,
     type: data.type,
     image_url: image_url,
-    image_url_strip: image_url_strip
+    image_url_thumb: image_url_thumb
   }));
 }
 
