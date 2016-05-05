@@ -1,0 +1,53 @@
+{
+
+  "infographics": [
+
+    {
+      "name": "SpaceX Falcon 9 Booster Trajectory",
+      "type": "Return to Launch Site",
+      "category": "trajectory",
+      "keywords": ["launch", "land", "lz1", "og2"],
+      "image": "trajectory/spacex-falcon9-booster-rtls"
+    },
+
+    {
+      "name": "SpaceX Falcon 9 Booster Trajectory",
+      "type": "Downrange Propulsive Landing",
+      "category": "trajectory",
+      "keywords": ["launch", "ocean", "droneship", "ocisly"],
+      "image": "trajectory/spacex-falcon9-booster-dpl"
+    },
+
+    {
+      "name": "SpaceX Dragon 2",
+      "type": "Engine Layout",
+      "category": "vehicle",
+      "keywords": ["draco", "superdraco", "engine", "pod"],
+      "image": "vehicle/spacex-dragon2-engine-layout"
+    },
+
+    {
+      "name": "SpaceX Red Dragon Mission",
+      "type": "Overview",
+      "category": "red-dragon",
+      "keywords": ["mars", "superdraco", "supersonic"],
+      "image": "red-dragon/spacex-red-dragon-overview"
+    },
+
+    {
+      "name": "SpaceX Red Dragon Mission",
+      "type": "Landing",
+      "category": "trajectory",
+      "keywords": ["mars", "superdraco", "supersonic"],
+      "image": "red-dragon/spacex-red-dragon-landing"
+    }
+
+  ],
+  
+  "order": [
+    ["trajectory", "Trajectory"],
+    ["vehicle", "Vehicles"],
+    ["red-dragon", "Red Dragon"]
+  ]
+  
+}

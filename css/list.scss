@@ -1,0 +1,98 @@
+
+$margin: 16px;
+$width: 320px;
+$height: 160px;
+
+#infographics {
+
+  margin: $margin * 0.5 0;
+
+  > section {
+
+    > header {
+
+      display: block;
+      
+      h1 {
+        font-size: 16px;
+        font-weight: bold;
+        opacity: 0.8;
+
+        text-transform: uppercase;
+        padding: 12px 0;
+        text-align: center;
+      }
+      
+    }
+    
+    .infographics {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+
+      margin: $margin * 0.5;
+
+      section {
+
+        background-color: white;
+
+        border-radius: 3px;
+        box-shadow: 0 2px 6px rgba(black, 0.3);
+        
+        margin: $margin * 0.5;
+        display: flex;
+        flex-direction: column;
+
+        width: 32vw;
+
+        min-width: $width;
+        min-height: $height;
+        
+        overflow: hidden;
+
+        background-repeat: no-repeat;
+        background-size: cover;
+
+        a {
+          width: 100%;
+          height: 100%;
+
+          &:hover {
+            cursor: pointer;
+          }
+          
+        }
+        
+        header {
+          background-color: #777;
+          z-index: 100;
+          padding: 16px 32px;
+          position: relative;
+          z-index: 1000;
+          
+          font-size: 16px;
+
+          h1 {
+            font-weight: 700;
+            color: rgba(white, 1);
+          }
+          
+          h2 {
+            font-family: 'Roboto Condensed';
+            color: rgba(white, 0.6);
+            text-transform: uppercase;
+          }
+          
+        }
+
+        img {
+          width: 100%;
+        }
+        
+      }
+      
+    }
+
+  }
+
+}

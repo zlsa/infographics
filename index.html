@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+  <head>
+    <title>ZLSA Design Infographics</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <link rel="stylesheet" href="css/style.css" />
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0-beta1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/dot/1.0.3/doT.min.js"></script>
+    <script src="js/main.js"></script>
+
+    <script data-template="category" type="text/html">
+      <section>
+        
+        <header>
+          <h1>{{=it.name}}</h1>
+        </header>
+        
+        <div class="infographics">
+        </div>
+        
+      </section>
+    </script>
+    
+    <script data-template="infographic" type="text/html">
+      
+      <section>
+        
+        <a href="{{=it.image_url}}">
+          <header>
+            <h1 class="name">{{=it.name}}</h1>
+            <h2 class="type">{{=it.type}}</h2>
+          </header>
+
+          <img src="{{=it.image_url}}" />
+          
+        </a>
+        
+      </section>
+      
+    </script>
+  </head>
+  <body>
+    
+    <main id="infographics">
+    </main>
+
+  </body>
+</html>

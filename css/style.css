@@ -1,0 +1,71 @@
+* {
+  background: none;
+  border: none;
+  outline: none;
+  font-family: inherit;
+  font-size: 100%;
+  font-weight: inherit;
+  color: inherit;
+  text-decoration: inherit;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -o-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0; }
+
+#infographics {
+  margin: 8px 0; }
+  #infographics > section > header {
+    display: block; }
+    #infographics > section > header h1 {
+      font-size: 16px;
+      font-weight: bold;
+      opacity: 0.8;
+      text-transform: uppercase;
+      padding: 12px 0;
+      text-align: center; }
+  #infographics > section .infographics {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 8px; }
+    #infographics > section .infographics section {
+      background-color: white;
+      border-radius: 3px;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+      margin: 8px;
+      display: flex;
+      flex-direction: column;
+      width: 32vw;
+      min-width: 320px;
+      min-height: 160px;
+      overflow: hidden;
+      background-repeat: no-repeat;
+      background-size: cover; }
+      #infographics > section .infographics section a {
+        width: 100%;
+        height: 100%; }
+        #infographics > section .infographics section a:hover {
+          cursor: pointer; }
+      #infographics > section .infographics section header {
+        background-color: #777;
+        z-index: 100;
+        padding: 16px 32px;
+        position: relative;
+        z-index: 1000;
+        font-size: 16px; }
+        #infographics > section .infographics section header h1 {
+          font-weight: 700;
+          color: white; }
+        #infographics > section .infographics section header h2 {
+          font-family: 'Roboto Condensed';
+          color: rgba(255, 255, 255, 0.6);
+          text-transform: uppercase; }
+      #infographics > section .infographics section img {
+        width: 100%; }
+
+html {
+  background-color: #f8f8f8;
+  font-family: 'Roboto';
+  font-size: 10px; }
