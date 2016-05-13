@@ -19,6 +19,14 @@
     },
 
     {
+      "name": "SpaceX Falcon 9 Booster Trajectory",
+      "type": "Hoverslam and Gravity Losses",
+      "category": "trajectory",
+      "keywords": ["land", "hoverslam", "gravity", "loss", "aero"],
+      "image": "trajectory/spacex-falcon9-booster-hoverslam"
+    },
+
+    {
       "name": "SpaceX Dragon 2",
       "type": "Engine Layout",
       "category": "vehicle",
