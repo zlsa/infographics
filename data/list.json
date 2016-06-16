@@ -28,26 +28,34 @@
 
     {
       "name": "SpaceX Dragon 2",
+      "type": "Components",
+      "category": "dragon2",
+      "keywords": ["leg", "trunk", "umbilical", "parachute", "engine"],
+      "image": "vehicle/spacex-dragon2-components"
+    },
+
+    {
+      "name": "SpaceX Dragon 2",
       "type": "Engine Layout",
-      "category": "vehicle",
+      "category": "dragon2",
       "keywords": ["draco", "superdraco", "engine", "pod"],
       "image": "vehicle/spacex-dragon2-engine-layout"
     },
 
     {
       "name": "SpaceX Falcon 9",
-      "type": "Scale and Transport",
-      "category": "vehicle",
-      "keywords": ["engine", "tarp", "truck", "scale", "liberty", "christ", "redeemer", "statue"],
-      "image": "vehicle/spacex-falcon9-scale-and-transport"
+      "type": "Components",
+      "category": "falcon9",
+      "keywords": ["leg", "grid", "fin", "interstage", "finterstage", "piston", "crush", "shock"],
+      "image": "vehicle/spacex-falcon9-components"
     },
 
     {
       "name": "SpaceX Falcon 9",
-      "type": "Components",
-      "category": "vehicle",
-      "keywords": ["leg", "grid", "fin", "interstage", "finterstage", "piston", "crush", "shock"],
-      "image": "vehicle/spacex-falcon9-components"
+      "type": "Scale and Transport",
+      "category": "falcon9",
+      "keywords": ["engine", "tarp", "truck", "scale", "liberty", "christ", "redeemer", "statue"],
+      "image": "vehicle/spacex-falcon9-scale-and-transport"
     },
 
     {
@@ -70,7 +78,8 @@
   
   "order": [
     ["trajectory", "Trajectory"],
-    ["vehicle", "Vehicles"],
+    ["dragon2", "Dragon 2"],
+    ["falcon9", "Falcon 9"],
     ["red-dragon", "Red Dragon"]
   ]
   
