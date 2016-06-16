@@ -1,10 +1,16 @@
 
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700,400italic|Roboto+Condensed:400|Roboto+Mono:400');
+
 @import 'reset';
+
+@import 'header';
 
 @import 'list';
 
+@import 'footer';
+
 html {
-  background-color: #f8f8f8;
+  background-color: #fff;
   font-family: 'Roboto';
   font-size: 10px;
 }

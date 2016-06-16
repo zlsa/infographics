@@ -43,6 +43,14 @@
     },
 
     {
+      "name": "SpaceX Falcon 9",
+      "type": "Components",
+      "category": "vehicle",
+      "keywords": ["leg", "grid", "fin", "interstage", "finterstage", "piston", "crush", "shock"],
+      "image": "vehicle/spacex-falcon9-components"
+    },
+
+    {
       "name": "SpaceX Red Dragon Mission",
       "type": "Overview",
       "category": "red-dragon",
