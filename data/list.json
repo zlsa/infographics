@@ -27,6 +27,14 @@
     },
 
     {
+      "name": "SpaceX Dragon 1",
+      "type": "Components",
+      "category": "dragon1",
+      "keywords": ["trunk", "umbilical", "parachute", "engine", "solar", "array", "nosecone"],
+      "image": "vehicle/spacex-dragon1-components"
+    },
+
+    {
       "name": "SpaceX Dragon 2",
       "type": "Components",
       "category": "dragon2",
@@ -78,6 +86,7 @@
   
   "order": [
     ["trajectory", "Trajectory"],
+    ["dragon1", "Dragon 1"],
     ["dragon2", "Dragon 2"],
     ["falcon9", "Falcon 9"],
     ["red-dragon", "Red Dragon"]
