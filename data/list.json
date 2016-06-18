@@ -3,6 +3,14 @@
   "infographics": [
 
     {
+      "name": "ULA Vulcan",
+      "type": "Overview",
+      "category": "vulcan",
+      "keywords": ["aces", "centaur", "ivf"],
+      "image": "vehicle/ula-vulcan-overview"
+    },
+
+    {
       "name": "SpaceX Falcon 9 Booster Trajectory",
       "type": "Return to Launch Site",
       "category": "trajectory",
@@ -85,11 +93,12 @@
   ],
   
   "order": [
+    ["vulcan", "ULA Vulcan"],
+    ["dragon1", "SpaceX Dragon 1"],
+    ["dragon2", "SpaceX Dragon 2"],
+    ["falcon9", "SpaceX Falcon 9"],
     ["trajectory", "Trajectory"],
-    ["dragon1", "Dragon 1"],
-    ["dragon2", "Dragon 2"],
-    ["falcon9", "Falcon 9"],
-    ["red-dragon", "Red Dragon"]
+    ["red-dragon", "SpaceX Red Dragon"]
   ]
   
 }
