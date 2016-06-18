@@ -28,6 +28,14 @@
 
     {
       "name": "SpaceX Falcon 9 Booster Trajectory",
+      "type": "Compared to Blue Origin's New Shepard",
+      "category": "trajectory",
+      "keywords": ["launch", "land", "lz1", "og2", "pm", "bezos", "amazon"],
+      "image": "trajectory/spacex-falcon9-booster-rtls-new-shepard"
+    },
+
+    {
+      "name": "SpaceX Falcon 9 Booster Trajectory",
       "type": "Hoverslam and Gravity Losses",
       "category": "trajectory",
       "keywords": ["land", "hoverslam", "gravity", "loss", "aero"],
