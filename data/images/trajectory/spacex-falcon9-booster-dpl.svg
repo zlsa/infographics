@@ -16,8 +16,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="dpl.svg"
-   inkscape:export-filename="/home/zlsa/projects/images/spacex/f9-v1.2/infographics/trajectory/dpl-2x.png"
+   sodipodi:docname="spacex-falcon9-booster-dpl.svg"
+   inkscape:export-filename="/home/zlsa/projects/online/infographics/data/images/trajectory/spacex-falcon9-booster-dpl.png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180">
   <defs
@@ -96,17 +96,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="490.0980824778128"
-     inkscape:cy="502.0436643792177"
+     inkscape:cx="671.2527526775298"
+     inkscape:cy="562.9795838702212"
      inkscape:document-units="px"
-     inkscape:current-layer="g4765"
+     inkscape:current-layer="layer18"
      showgrid="false"
      borderlayer="true"
      units="px"
      inkscape:window-width="1600"
-     inkscape:window-height="859"
+     inkscape:window-height="862"
      inkscape:window-x="0"
-     inkscape:window-y="20"
+     inkscape:window-y="18"
      inkscape:window-maximized="0"
      inkscape:snap-text-baseline="true"
      inkscape:object-nodes="true"
@@ -132,7 +132,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -788,78 +788,6 @@
        inkscape:connector-curvature="0"
        inkscape:transform-center-x="-36.00000075542556"
        sodipodi:nodetypes="ccc" />
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#404040;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1104,520 72,0"
-       id="path9122"
-       inkscape:connector-curvature="0"
-       inkscape:transform-center-x="36.0000007554255" />
-    <g
-       id="g9124"
-       transform="translate(711.9999999999998,-116)">
-      <rect
-         y="624"
-         x="148"
-         height="24"
-         width="248"
-         id="rect9126"
-         style="opacity:1;fill:#ffffff;fill-opacity:0.5019607843;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <g
-         transform="translate(-7,0)"
-         id="g9128">
-        <rect
-           y="628"
-           x="210"
-           height="16"
-           width="36"
-           id="rect9130"
-           style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <path
-           sodipodi:nodetypes="cccccccccc"
-           inkscape:connector-curvature="0"
-           id="path9132"
-           d="m 225.5,631 -2.5,10 2.5,0 2.5,-10 z m 5,0 -2.5,10 2.5,0 2.5,-10 z"
-           style="opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      </g>
-      <text
-         sodipodi:linespacing="125%"
-         id="text9134"
-         y="640"
-         x="203.5"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1"
-           y="640"
-           x="203"
-           id="tspan9136"
-           sodipodi:role="line">GRID FINS DEPLOY</tspan></text>
-      <rect
-         y="624"
-         x="-396"
-         height="24"
-         width="16"
-         id="rect9138"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         transform="scale(-1,1)" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         x="380.5"
-         y="640"
-         id="text9140"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           id="tspan9142"
-           x="380"
-           y="640"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1">BEFORE ATMOSPHERIC ENTRY</tspan></text>
-      <path
-         inkscape:connector-curvature="0"
-         id="path9144"
-         d="m 388,624.0000000000001 8,0 L 396,648 l -8,0"
-         style="fill:none;fill-rule:evenodd;stroke:#404040;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         sodipodi:nodetypes="cccc" />
-    </g>
     <g
        transform="translate(516,-300)"
        id="g10317">
@@ -1657,6 +1585,78 @@
          style="fill:none;fill-rule:evenodd;stroke:#404040;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          sodipodi:nodetypes="cccc" />
     </g>
+    <path
+       inkscape:transform-center-x="-36.0000007554255"
+       inkscape:connector-curvature="0"
+       id="path7216-3"
+       d="m 688,512 -72,0"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#404040;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       style="display:inline"
+       transform="translate(536,-124)"
+       id="g7166-6">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect7184-7"
+         width="16"
+         height="24"
+         x="148"
+         y="624" />
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:0.5019607843;fill-rule:nonzero;stroke:#ffffff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect7168-5"
+         width="248"
+         height="24"
+         x="148"
+         y="624" />
+      <g
+         id="g7174-3"
+         transform="translate(54,0)">
+        <rect
+           style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect7176-5"
+           width="36"
+           height="16"
+           x="210"
+           y="628" />
+        <path
+           style="opacity:0.6;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 225.5,631 -2.5,10 2.5,0 2.5,-10 z m 5,0 -2.5,10 2.5,0 2.5,-10 z"
+           id="path7178-6"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cccccccccc" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.8;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="164"
+         y="640"
+         id="text7170-2"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan7172-9"
+           x="164"
+           y="640"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#000000;fill-opacity:1">GRID FINS DEPLOY</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text7180-1"
+         y="640"
+         x="300"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;fill-opacity:1"
+           y="640"
+           x="300"
+           id="tspan7182-2"
+           sodipodi:role="line">BEFORE BOOSTER FLIP</tspan></text>
+      <path
+         sodipodi:nodetypes="cccc"
+         style="fill:none;fill-rule:evenodd;stroke:#404040;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 156,624.0000000000001 -8,0 L 148,648 l 8,0"
+         id="path7186-7"
+         inkscape:connector-curvature="0" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2171,7 +2171,7 @@
     <g
        style="display:inline;opacity:1"
        id="g9158-7-8-2-3"
-       transform="translate(1012.704051283875,204)">
+       transform="translate(447.9065889643407,196)">
       <circle
          style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle9152-7-4-1-7"
