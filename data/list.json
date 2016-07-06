@@ -11,6 +11,14 @@
     },
 
     {
+      "name": "ULA SMART Reuse",
+      "type": "Trajectory and Components",
+      "category": "vulcan",
+      "keywords": ["smart", "mar", "hiad", "helicopter"],
+      "image": "trajectory/ula-smart"
+    },
+
+    {
       "name": "SpaceX Falcon 9 Booster Trajectory",
       "type": "Return to Launch Site",
       "category": "trajectory",
