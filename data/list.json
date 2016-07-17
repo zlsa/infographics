@@ -91,6 +91,14 @@
     },
 
     {
+      "name": "SpaceX Falcon 9",
+      "type": "Control",
+      "category": "falcon9",
+      "keywords": ["rcs", "nitrogen", "grid", "fin", "gimbal", "atmosphere", "velocity"],
+      "image": "vehicle/spacex-falcon9-control"
+    },
+
+    {
       "name": "SpaceX Red Dragon Mission",
       "type": "Overview",
       "category": "red-dragon",
