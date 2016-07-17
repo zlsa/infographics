@@ -18,8 +18,8 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="spacex-falcon9-control.svg"
    inkscape:export-filename="/home/zlsa/projects/online/infographics/data/images/vehicle/spacex-falcon9-control.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-xdpi="180"
+   inkscape:export-ydpi="180">
   <defs
      id="defs4">
     <linearGradient
@@ -386,9 +386,9 @@
      borderopacity="0.4941176471"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.82842712250762"
-     inkscape:cx="1296.30483707376"
-     inkscape:cy="614.5273699083265"
+     inkscape:zoom="5.65685424203047"
+     inkscape:cx="184.3727559841041"
+     inkscape:cy="739.5410943018874"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -5329,7 +5329,7 @@
        inkscape:connector-curvature="0"
        id="path7216-4"
        d="m 1563.999998750558,283.9999999999999 -64,1e-13 -16,-16"
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#404040;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#404040;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        sodipodi:nodetypes="ccc" />
     <g
        style="display:inline"
@@ -6147,7 +6147,7 @@
        inkscape:connector-curvature="0"
        id="path16042"
        d="M 236.0000000000001,367.9999999999999 160,368"
-       style="display:inline;fill:none;fill-rule:evenodd;stroke:#404040;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#404040;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        sodipodi:nodetypes="cc" />
     <g
        style="display:inline"
