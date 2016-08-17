@@ -84,10 +84,18 @@
 
     {
       "name": "SpaceX Falcon 9",
-      "type": "Scale and Transport",
+      "type": "Transport",
       "category": "falcon9",
-      "keywords": ["engine", "tarp", "truck", "scale", "liberty", "christ", "redeemer", "statue"],
-      "image": "vehicle/spacex-falcon9-scale-and-transport"
+      "keywords": ["engine", "tarp", "truck"],
+      "image": "vehicle/spacex-falcon9-transport"
+    },
+
+    {
+      "name": "SpaceX Falcon 9",
+      "type": "Scale",
+      "category": "falcon9",
+      "keywords": ["engine", "tesla", "door", "scale", "liberty", "christ", "redeemer", "statue"],
+      "image": "vehicle/spacex-falcon9-scale"
     },
 
     {
@@ -96,6 +104,14 @@
       "category": "falcon9",
       "keywords": ["rcs", "nitrogen", "grid", "fin", "gimbal", "atmosphere", "velocity"],
       "image": "vehicle/spacex-falcon9-control"
+    },
+
+    {
+      "name": "SpaceX Falcon 9",
+      "type": "Hawthorne to Launch",
+      "category": "falcon9",
+      "keywords": ["core", "production", "test", "mcgregor", "cow", "static", "integration"],
+      "image": "vehicle/spacex-falcon9-hawthorne-to-launch"
     },
 
     {
