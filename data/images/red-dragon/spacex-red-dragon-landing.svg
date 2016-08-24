@@ -16,8 +16,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="landing.svg"
-   inkscape:export-filename="/home/zlsa/projects/images/spacex/red-dragon/infographics/landing.png"
+   sodipodi:docname="spacex-red-dragon-landing.svg"
+   inkscape:export-filename="/home/zlsa/projects/online/infographics/data/images/red-dragon/spacex-red-dragon-landing.png"
    inkscape:export-xdpi="180"
    inkscape:export-ydpi="180">
   <defs
@@ -134,11 +134,11 @@
      borderopacity="0.4941176471"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="1112.325028161614"
-     inkscape:cy="403.425644949348"
+     inkscape:zoom="0.47412109"
+     inkscape:cx="1012.0869"
+     inkscape:cy="734.50037"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="false"
      borderlayer="true"
      units="px"
@@ -171,7 +171,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -213,7 +213,7 @@
          id="tspan4141"
          x="30"
          y="60"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium'">SpaceX Red Dragon mission</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium'">SpaceX Red Dragon Mission</tspan></text>
     <g
        id="g5201"
        transform="translate(36,0)">
