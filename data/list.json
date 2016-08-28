@@ -36,6 +36,14 @@
 
     {
       "name": "SpaceX Falcon 9 Booster Trajectory",
+      "type": "Downrange Propulsive Landing (No Boostback)",
+      "category": "trajectory",
+      "keywords": ["launch", "ocean", "droneship", "ocisly"],
+      "image": "trajectory/spacex-falcon9-booster-dpl-no-boostback"
+    },
+
+    {
+      "name": "SpaceX Falcon 9 Booster Trajectory",
       "type": "Compared to Blue Origin's New Shepard",
       "category": "trajectory",
       "keywords": ["launch", "land", "lz1", "og2", "pm", "bezos", "amazon"],
