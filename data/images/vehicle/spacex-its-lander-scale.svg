@@ -831,11 +831,11 @@
      borderopacity="0.4941176471"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.500000000263818"
-     inkscape:cx="617.3584424037797"
-     inkscape:cy="491.3348009531004"
+     inkscape:zoom="1"
+     inkscape:cx="541.35844244388"
+     inkscape:cy="1487.334800427575"
      inkscape:document-units="px"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="layer3"
      showgrid="false"
      borderlayer="true"
      units="px"
@@ -1374,7 +1374,7 @@
            y="640"
            x="380"
            id="tspan14686"
-           sodipodi:role="line">FRONT WINDOW</tspan></text>
+           sodipodi:role="line">OBSERVATION WINDOW</tspan></text>
       <rect
          y="624"
          x="-396"
