@@ -144,6 +144,14 @@
       "category": "its",
       "keywords": ["engine", "tesla", "scale", "liberty", "christ", "redeemer", "statue", "leg"],
       "image": "vehicle/spacex-its-lander-scale"
+    },
+
+    {
+      "name": "SpaceX Interplanetary Transport System",
+      "type": "Mars Lander Components",
+      "category": "its",
+      "keywords": ["leg", "component", "cutaway"],
+      "image": "vehicle/spacex-its-lander-components"
     }
 
   ],
