@@ -137,7 +137,7 @@
       "keywords": ["mars", "superdraco", "supersonic"],
       "image": "red-dragon/spacex-red-dragon-landing"
     },
-    
+
     {
       "name": "SpaceX Interplanetary Transport System",
       "type": "Mars Lander Scale",
@@ -152,10 +152,18 @@
       "category": "its",
       "keywords": ["leg", "component", "cutaway"],
       "image": "vehicle/spacex-its-lander-components"
+    },
+
+    {
+      "name": "SpaceX Interplanetary Transport System",
+      "type": "Mars Entry, Descent and Landing",
+      "category": "its",
+      "keywords": ["mars", "downrange", "ellipse"],
+      "image": "trajectory/spacex-its-lander-mars-edl"
     }
 
   ],
-  
+
   "order": [
     ["its", "SpaceX Interplanetary Transport System"],
     ["vulcan", "ULA Vulcan"],
@@ -165,5 +173,5 @@
     ["trajectory", "Trajectory"],
     ["red-dragon", "SpaceX Red Dragon"]
   ]
-  
+
 }

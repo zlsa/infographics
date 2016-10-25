@@ -17,9 +17,9 @@
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="spacex-falcon9-control.svg"
-   inkscape:export-filename="/home/zlsa/projects/online/infographics/data/images/vehicle/spacex-falcon9-control-8k.png"
-   inkscape:export-xdpi="360"
-   inkscape:export-ydpi="360">
+   inkscape:export-filename="/home/zlsa/projects/online/infographics/data/images/vehicle/spacex-falcon9-control.png"
+   inkscape:export-xdpi="180"
+   inkscape:export-ydpi="180">
   <defs
      id="defs4">
     <linearGradient
@@ -386,11 +386,11 @@
      borderopacity="0.4941176471"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.94824219"
-     inkscape:cx="321.99665"
-     inkscape:cy="795.99624"
+     inkscape:zoom="1"
+     inkscape:cx="588.8768873819104"
+     inkscape:cy="780.1230999034058"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g15946"
      showgrid="false"
      borderlayer="true"
      units="px"
@@ -4497,7 +4497,7 @@
       <path
          inkscape:transform-center-y="3.248699017984677"
          inkscape:transform-center-x="-3.248699017984677"
-         d="m 179,536 a 7,7 0 0 1 -2.05025,4.94975 A 7,7 0 0 1 172,543 l 0,-7 z"
+         d="m 179,536 a 7.000000000000001,7.000000000000001 0 0 1 -2.0502525316941,4.9497474683058 A 7.000000000000001,7.000000000000001 0 0 1 172,543 l 0,-7 z"
          sodipodi:end="1.570796326794897"
          sodipodi:start="0"
          sodipodi:ry="7"
@@ -4518,7 +4518,7 @@
          sodipodi:ry="7"
          sodipodi:start="0"
          sodipodi:end="1.570796326794897"
-         d="m -165,-536 a 7,7 0 0 1 -2.05025,4.94975 A 7,7 0 0 1 -172,-529 l 0,-7 z"
+         d="m -165,-536 a 7.000000000000001,7.000000000000001 0 0 1 -2.0502525316942,4.9497474683059 A 7.000000000000001,7.000000000000001 0 0 1 -172,-529 l 0,-7 z"
          inkscape:transform-center-x="3.248699017984677"
          inkscape:transform-center-y="-3.248699017984677" />
     </g>
@@ -4594,13 +4594,13 @@
          sodipodi:ry="7"
          sodipodi:start="0"
          sodipodi:end="1.570796326794897"
-         d="m 179,536 a 7,7 0 0 1 -2.05025,4.94975 A 7,7 0 0 1 172,543 l 0,-7 z"
+         d="m 179,536 a 7.000000000000001,7.000000000000001 0 0 1 -2.0502525316941,4.9497474683058 A 7.000000000000001,7.000000000000001 0 0 1 172,543 l 0,-7 z"
          inkscape:transform-center-x="-3.248699017984677"
          inkscape:transform-center-y="3.248699017984677" />
       <path
          inkscape:transform-center-y="-3.248699017984677"
          inkscape:transform-center-x="3.248699017984677"
-         d="m -165,-536 a 7,7 0 0 1 -2.05025,4.94975 A 7,7 0 0 1 -172,-529 l 0,-7 z"
+         d="m -165,-536 a 7.000000000000001,7.000000000000001 0 0 1 -2.0502525316942,4.9497474683059 A 7.000000000000001,7.000000000000001 0 0 1 -172,-529 l 0,-7 z"
          sodipodi:end="1.570796326794897"
          sodipodi:start="0"
          sodipodi:ry="7"
@@ -4664,7 +4664,7 @@
       <path
          inkscape:transform-center-y="3.248699017984677"
          inkscape:transform-center-x="-3.248699017984677"
-         d="m 179,536 a 7,7 0 0 1 -2.05025,4.94975 A 7,7 0 0 1 172,543 l 0,-7 z"
+         d="m 179,536 a 7.000000000000001,7.000000000000001 0 0 1 -2.0502525316941,4.9497474683058 A 7.000000000000001,7.000000000000001 0 0 1 172,543 l 0,-7 z"
          sodipodi:end="1.570796326794897"
          sodipodi:start="0"
          sodipodi:ry="7"
@@ -4685,7 +4685,7 @@
          sodipodi:ry="7"
          sodipodi:start="0"
          sodipodi:end="1.570796326794897"
-         d="m -165,-536 a 7,7 0 0 1 -2.05025,4.94975 A 7,7 0 0 1 -172,-529 l 0,-7 z"
+         d="m -165,-536 a 7.000000000000001,7.000000000000001 0 0 1 -2.0502525316942,4.9497474683059 A 7.000000000000001,7.000000000000001 0 0 1 -172,-529 l 0,-7 z"
          inkscape:transform-center-x="3.248699017984677"
          inkscape:transform-center-y="-3.248699017984677" />
     </g>
@@ -4748,7 +4748,7 @@
       <path
          inkscape:transform-center-y="3.248699017984677"
          inkscape:transform-center-x="-3.248699017984677"
-         d="m 179,536 a 7,7 0 0 1 -2.05025,4.94975 A 7,7 0 0 1 172,543 l 0,-7 z"
+         d="m 179,536 a 7.000000000000001,7.000000000000001 0 0 1 -2.0502525316941,4.9497474683058 A 7.000000000000001,7.000000000000001 0 0 1 172,543 l 0,-7 z"
          sodipodi:end="1.570796326794897"
          sodipodi:start="0"
          sodipodi:ry="7"
@@ -4769,7 +4769,7 @@
          sodipodi:ry="7"
          sodipodi:start="0"
          sodipodi:end="1.570796326794897"
-         d="m -165,-536 a 7,7 0 0 1 -2.05025,4.94975 A 7,7 0 0 1 -172,-529 l 0,-7 z"
+         d="m -165,-536 a 7.000000000000001,7.000000000000001 0 0 1 -2.0502525316942,4.9497474683059 A 7.000000000000001,7.000000000000001 0 0 1 -172,-529 l 0,-7 z"
          inkscape:transform-center-x="3.248699017984677"
          inkscape:transform-center-y="-3.248699017984677" />
     </g>
@@ -6016,7 +6016,7 @@
            id="tspan15958"
            x="380"
            y="640"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1">GRID FINS ARE INEFFECTIVE WHEN TRANSSONIC</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1">GRID FINS ARE NOT AS EFFECTIVE WHEN TRANSSONIC</tspan></text>
       <rect
          transform="scale(-1,1)"
          style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"

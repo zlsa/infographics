@@ -153,9 +153,9 @@
      borderopacity="0.4941176471"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.500000000263818"
-     inkscape:cx="1221.39714238949"
-     inkscape:cy="397.5153525998001"
+     inkscape:zoom="0.3535533908730948"
+     inkscape:cx="649.9124389957907"
+     inkscape:cy="741.9662608319341"
      inkscape:document-units="px"
      inkscape:current-layer="layer18"
      showgrid="false"
@@ -190,7 +190,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -646,7 +646,7 @@
            y="640"
            x="272"
            id="tspan7182-6"
-           sodipodi:role="line">VEHICLE TRAVELLING AT SPEEDS ABOVE MACH 10</tspan></text>
+           sodipodi:role="line">VEHICLE SPEED IS ABOUT MACH 15</tspan></text>
       <path
          sodipodi:nodetypes="cccc"
          style="fill:none;fill-rule:evenodd;stroke:#404040;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
