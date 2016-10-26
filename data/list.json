@@ -160,6 +160,14 @@
       "category": "its",
       "keywords": ["mars", "downrange", "ellipse"],
       "image": "trajectory/spacex-its-lander-mars-edl"
+    },
+
+    {
+      "name": "SpaceX Interplanetary Transport System",
+      "type": "Earth Departure",
+      "category": "its",
+      "keywords": ["earth", "propellant", "tanker", "reuse"],
+      "image": "operations/spacex-its-earth-departure"
     }
 
   ],
