@@ -106,10 +106,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="710.8178187850297"
-     inkscape:cy="644.3848918181245"
+     inkscape:cx="1279.152674708336"
+     inkscape:cy="459.9907496826405"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g7166-8"
      showgrid="false"
      borderlayer="true"
      units="px"
@@ -531,7 +531,7 @@
          y="624" />
       <g
          id="g7174-36"
-         transform="translate(60,0)">
+         transform="translate(44,0)">
         <rect
            style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
            id="rect7176-1"
@@ -557,17 +557,17 @@
            id="tspan7172-3"
            x="164"
            y="640"
-           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#000000;fill-opacity:1">34 RCS THRUSTERS</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.5px;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';fill:#000000;fill-opacity:1">RCS THRUSTERS</tspan></text>
       <text
          sodipodi:linespacing="125%"
          id="text7180-19"
          y="640"
-         x="306"
+         x="290"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.25px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Medium';text-align:start;letter-spacing:-0.5px;word-spacing:0px;text-anchor:start;opacity:0.6;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;font-family:'Roboto Condensed';-inkscape-font-specification:'Roboto Condensed, ';fill:#000000;fill-opacity:1"
            y="640"
-           x="306"
+           x="290"
            id="tspan7182-4"
            sodipodi:role="line">ORIENTATION CONTROL AND FINE TRAJECTORY ADJUSTMENTS</tspan></text>
       <path
