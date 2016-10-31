@@ -842,10 +842,10 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="805.4215432198175"
-     inkscape:cy="636.0240446507515"
+     inkscape:cx="837.0204304827137"
+     inkscape:cy="1263.894216638394"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer5"
      showgrid="false"
      borderlayer="true"
      units="px"
@@ -2927,8 +2927,8 @@
     <rect
        ry="56"
        rx="56"
-       y="968"
-       x="1144"
+       y="1144"
+       x="896"
        height="112"
        width="112"
        id="rect10331"
@@ -2938,8 +2938,8 @@
        id="rect10333"
        width="112"
        height="112"
-       x="1134"
-       y="1320"
+       x="824"
+       y="800"
        rx="56"
        ry="56" />
     <text
@@ -3003,8 +3003,15 @@
     <path
        inkscape:connector-curvature="0"
        id="path6911"
-       d="m 727.9999999999995,663.9999999999995 304.0000000000005,0"
-       style="fill:none;fill-rule:evenodd;stroke:#404040;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       d="m 728,647.9999999999996 16,0 0,8 40,0 0,8 48,0 0,8 48,0"
+       style="fill:none;fill-rule:evenodd;stroke:#404040;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       sodipodi:nodetypes="cccccccc"
+       style="fill:none;fill-rule:evenodd;stroke:#404040;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1032,647.9999999999995 -16,0 0,8 -40,0 0,8 -48,0 0,8 -48,0"
+       id="path6164"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      inkscape:groupmode="layer"
